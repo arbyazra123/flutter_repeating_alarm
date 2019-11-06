@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/arbyazra/Development/flutterProjects/prospek/build/flutter_local_notifications/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/arbyazra/.gradle/caches/transforms-2/files-2.1/14f767d4f6997d2b60d45fd396b6b134/core-1.0.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/arbyazra/Development/flutterProjects/prospek/build/flutter_local_notifications/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/arbyazra/.gradle/caches/transforms-2/files-2.1/14f767d4f6997d2b60d45fd396b6b134/core-1.0.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/arbyazra/Development/flutterProjects/prospek/build/flutter_local_notifications/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/arbyazra/.gradle/caches/transforms-2/files-2.1/14f767d4f6997d2b60d45fd396b6b134/core-1.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/arbyazra/Development/flutterProjects/prospek/build/flutter_local_notifications/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/arbyazra/.gradle/caches/transforms-2/files-2.1/14f767d4f6997d2b60d45fd396b6b134/core-1.0.1/res/layout-v21/notification_action.xml"
+    }
+]

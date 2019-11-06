@@ -1,0 +1,96 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="mobile.com.daput.prospek"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:3:5-66
+11-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:3:22-64
+12    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+12-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:4:5-80
+12-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:4:22-78
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:5:5-66
+13-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:5:22-63
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:6:5-67
+14-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:6:22-65
+15    <uses-permission android:name="android.permission.SET_ALARM" />
+15-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:7:5-67
+15-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:7:22-65
+16
+17    <application
+17-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:9:5-36:19
+18        android:name="mobile.com.daput.prospek.Application"
+18-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:10:9-36
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.0.1] /Users/arbyazra/.gradle/caches/transforms-2/files-2.1/14f767d4f6997d2b60d45fd396b6b134/core-1.0.1/AndroidManifest.xml:22:18-86
+20        android:icon="@mipmap/ic_launcher"
+20-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:12:9-43
+21        android:label="prospek" >
+21-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:11:9-32
+22        <activity
+22-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:13:9-27:20
+23            android:name="mobile.com.daput.prospek.MainActivity"
+23-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:14:13-41
+24            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+24-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:17:13-144
+25            android:hardwareAccelerated="true"
+25-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:18:13-47
+26            android:launchMode="singleTop"
+26-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:15:13-43
+27            android:theme="@style/LaunchTheme"
+27-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:16:13-47
+28            android:windowSoftInputMode="adjustResize" >
+28-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:19:13-55
+29            <meta-data
+29-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:20:13-22:40
+30                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
+30-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:21:17-82
+31                android:value="true" />
+31-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:22:17-37
+32
+33            <intent-filter>
+33-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:23:13-26:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:24:17-68
+34-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:24:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:25:17-76
+36-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:25:27-74
+37            </intent-filter>
+38        </activity>
+39
+40        <receiver android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver" >
+40-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:29:9-33:20
+40-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:29:19-107
+41            <intent-filter>
+41-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:30:13-32:29
+42                <action android:name="android.intent.action.BOOT_COMPLETED" />
+42-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:31:17-86
+42-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:31:25-76
+43            </intent-filter>
+44        </receiver>
+45        <receiver android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver" />
+45-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:35:9-106
+45-->/Users/arbyazra/Development/flutterProjects/prospek/android/app/src/main/AndroidManifest.xml:35:19-103
+46
+47        <activity
+47-->[:url_launcher] /Users/arbyazra/Development/flutterProjects/prospek/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+48            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+48-->[:url_launcher] /Users/arbyazra/Development/flutterProjects/prospek/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+49            android:exported="false"
+49-->[:url_launcher] /Users/arbyazra/Development/flutterProjects/prospek/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+50            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+50-->[:url_launcher] /Users/arbyazra/Development/flutterProjects/prospek/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+51    </application>
+52
+53</manifest>

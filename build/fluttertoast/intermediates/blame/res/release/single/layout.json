@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/arbyazra/Development/flutterProjects/prospek/build/fluttertoast/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/arbyazra/.gradle/caches/transforms-2/files-2.1/1eb9e77797e5f03df0b3bb2f934d775b/core-1.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/arbyazra/Development/flutterProjects/prospek/build/fluttertoast/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/arbyazra/.gradle/caches/transforms-2/files-2.1/1eb9e77797e5f03df0b3bb2f934d775b/core-1.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/arbyazra/Development/flutterProjects/prospek/build/fluttertoast/intermediates/res/merged/release/layout/toast_custom.xml",
+        "source": "/Users/arbyazra/Development/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-3.1.3/android/src/main/res/layout/toast_custom.xml"
+    },
+    {
+        "merged": "/Users/arbyazra/Development/flutterProjects/prospek/build/fluttertoast/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/arbyazra/.gradle/caches/transforms-2/files-2.1/1eb9e77797e5f03df0b3bb2f934d775b/core-1.0.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/arbyazra/Development/flutterProjects/prospek/build/fluttertoast/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/arbyazra/.gradle/caches/transforms-2/files-2.1/1eb9e77797e5f03df0b3bb2f934d775b/core-1.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/arbyazra/Development/flutterProjects/prospek/build/fluttertoast/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/arbyazra/.gradle/caches/transforms-2/files-2.1/1eb9e77797e5f03df0b3bb2f934d775b/core-1.0.0/res/layout/notification_template_part_time.xml"
+    }
+]

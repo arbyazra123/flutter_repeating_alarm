@@ -1,0 +1,4 @@
+#Tue Nov 05 19:56:25 WIB 2019
+base.0=/Users/arbyazra/Development/flutterProjects/prospek/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
